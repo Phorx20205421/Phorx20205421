@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hapticdc</title>
+
+<style>
+body {
+padding-right: 2cm ;
+    padding-left: 2cm ;
+}
+
+
+.Twitch-image {
+
+    width: auto;
+} 
+.headline {
+    color: rgb(68, 151, 29);
+    
+    
+}
+
+.image-contianer
+{
+    background-color: bisque;
+    padding: 10px;
+
+}
+
+.nav
+{
+    display: flex;
+    justify-content: space-between;
+   
+ 
+}
+
+
+
+a{
+ color: brown;
+ text-decoration: none;
+ margin-left: 16px;
+ font-weight: 700;
+}
+
+
+a:hover {
+text-decoration:underline ;
+
+}
+</style>
+
+</head>
+
+<body>
+   <div class="nav"> <h1 class="headline"> 
+                  Hapticdc
+                
+    </h1>
+<div class="nav1">
+<button>
+    <a href="https://vm.tiktok.com/ZMNNqamDt/">Tiktok</a>
+    <a href="https://www.twitch.tv/Hapticdc">twitch</a>
+    <a href="https://youtube.com/channel/UCTpPyW8fwIm1CbU9yOzmuGw">Youtube</a>
+</button>
+</div> 
+</div>
+    
+
+
+<div class="image-contianer" >
+    <img class="Twitch-image"src="Tw.jpg">
+     </div>
+        
+   
+
+    
+</body>
+
+
+</html>
